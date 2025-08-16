@@ -1,0 +1,11 @@
+{
+  "name": "Salla Video Theme",
+  "id": "salla-video-theme",
+  "version": "1.0.0",
+  "author": "Custom",
+  "settings": {
+    "primary_color": "#f5f5f5",
+    "banner_video": "assets/banner.mp4",
+    "banner_text": "تسوق الآن"
+  }
+}
